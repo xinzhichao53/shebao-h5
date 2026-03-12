@@ -1,4 +1,4 @@
-import{_,u as d,g as r,o as u,a as p,c as v,b as n,d as y,t as s,f as m}from"./index-52e1982f.js";import{b as f}from"./back_black-1319758f.js";const h={class:"page"},k={class:"header"},b=["src"],g={class:"content"},D={class:"policy-detail"},I={class:"policy-title"},B={class:"policy-content"},x={__name:"PolicyDetail",setup(P){const a=d(),c=r(),e=m({id:1,title:"关于进一步完善建筑业工伤保险制度的通知",date:"2025-09-01",content:`为进一步完善建筑业工伤保险制度，保障建筑工人的合法权益，根据《工伤保险条例》和《建筑法》等法律法规，现就有关事项通知如下：
+import{_,u as d,g as r,o as u,a as p,c as v,b as n,d as y,t as s,f as m}from"./index-2b1bd590.js";import{b as f}from"./back_black-1319758f.js";const h={class:"page"},k={class:"header"},b=["src"],g={class:"content"},D={class:"policy-detail"},I={class:"policy-title"},B={class:"policy-content"},x={__name:"PolicyDetail",setup(P){const a=d(),c=r(),e=m({id:1,title:"关于进一步完善建筑业工伤保险制度的通知",date:"2025-09-01",content:`为进一步完善建筑业工伤保险制度，保障建筑工人的合法权益，根据《工伤保险条例》和《建筑法》等法律法规，现就有关事项通知如下：
 
 一、充分认识完善建筑业工伤保险制度的重要意义
 
